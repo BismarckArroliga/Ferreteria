@@ -1,0 +1,14 @@
+C:\Users\Bismarck\documents\visual studio 2015\Projects\SistemaVentaMeconica\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Bismarck\documents\visual studio 2015\Projects\SistemaVentaMeconica\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Bismarck\documents\visual studio 2015\Projects\SistemaVentaMeconica\CapaDatos\bin\Debug\CapaComun.dll
+C:\Users\Bismarck\documents\visual studio 2015\Projects\SistemaVentaMeconica\CapaDatos\bin\Debug\CapaComun.pdb
+C:\Users\Bismarck\documents\visual studio 2015\Projects\SistemaVentaMeconica\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Bismarck\documents\visual studio 2015\Projects\SistemaVentaMeconica\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Bismarck\documents\visual studio 2015\Projects\SistemaVentaMeconica\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Bismarck\Documents\Visual Studio 2015\Projects\Ferreteria\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Bismarck\Documents\Visual Studio 2015\Projects\Ferreteria\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Bismarck\Documents\Visual Studio 2015\Projects\Ferreteria\CapaDatos\bin\Debug\CapaComun.dll
+C:\Users\Bismarck\Documents\Visual Studio 2015\Projects\Ferreteria\CapaDatos\bin\Debug\CapaComun.pdb
+C:\Users\Bismarck\Documents\Visual Studio 2015\Projects\Ferreteria\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Bismarck\Documents\Visual Studio 2015\Projects\Ferreteria\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Bismarck\Documents\Visual Studio 2015\Projects\Ferreteria\CapaDatos\obj\Debug\CapaDatos.pdb

@@ -1,0 +1,5 @@
+C:\Users\Bismarck\Documents\Visual Studio 2015\Projects\SistemaVentaMeconica\CapaComun\bin\Release\CapaComun.dll
+C:\Users\Bismarck\Documents\Visual Studio 2015\Projects\SistemaVentaMeconica\CapaComun\bin\Release\CapaComun.pdb
+C:\Users\Bismarck\Documents\Visual Studio 2015\Projects\SistemaVentaMeconica\CapaComun\obj\Release\CapaComun.dll
+C:\Users\Bismarck\Documents\Visual Studio 2015\Projects\SistemaVentaMeconica\CapaComun\obj\Release\CapaComun.pdb
+C:\Users\Bismarck\Documents\Visual Studio 2015\Projects\SistemaVentaMeconica\CapaComun\obj\Release\CapaComun.csprojResolveAssemblyReference.cache
